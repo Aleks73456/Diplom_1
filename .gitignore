@@ -1,0 +1,9 @@
+.venv
+.pytest_cache
+praktikum/__pycache__
+praktikum/__pycache__/__init__.cpython-313.pyc
+praktikum/__init__.py
+tests/__pycache__
+tests/__init__.py
+.coverage
+__pycache__
